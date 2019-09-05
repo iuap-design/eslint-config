@@ -1,0 +1,26 @@
+{
+  "name": "@iuap/eslint-config",
+  "version": "0.0.0",
+  "description": "eslint configuration for iuap-design",
+  "keywords": [
+    "iuap",
+    "eslint"
+  ],
+  "author": "Yudu Ban <banyudu@gmail.com>",
+  "homepage": "https://github.com/iuap-design/eslint-config#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iuap-design/eslint-config.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/iuap-design/eslint-config/issues"
+  }
+}
