@@ -26,6 +26,7 @@
   "dependencies": {
     "@iuap/eslint-config": "^0.1.0",
     "babel-eslint": "^10.0.3",
+    "eslint": "^6.3.0",
     "eslint-config-standard": "^14.1.0",
     "eslint-config-standard-react": "^9.1.0",
     "eslint-plugin-import": "^2.18.2",
