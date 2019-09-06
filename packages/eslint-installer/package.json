@@ -11,10 +11,12 @@
   "license": "MIT",
   "main": "cli.js",
   "bin": {
-    "eslint-installer": "./cli.js"
+    "eslint-installer": "./bin/eslint-installer.js"
   },
   "files": [
-    "cli.js"
+    "package.json",
+    "README.md",
+    "bin"
   ],
   "repository": {
     "type": "git",
