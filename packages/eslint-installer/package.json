@@ -1,6 +1,6 @@
 {
   "name": "@iuap/eslint-installer",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "iuap eslint virtual package",
   "keywords": [
     "eslint",
