@@ -11,7 +11,7 @@
   "license": "MIT",
   "main": "index.js",
   "bin": {
-    "eslint-installer": "node index.js"
+    "eslint-installer": "./index.js"
   },
   "files": [
     "index.js"
