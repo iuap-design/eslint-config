@@ -1,5 +1,5 @@
 {
-  "name": "@iuap/eslint",
+  "name": "@iuap/eslint-installer",
   "version": "0.1.2-alpha.0",
   "description": "iuap eslint virtual package",
   "keywords": [
@@ -10,6 +10,9 @@
   "homepage": "https://github.com/iuap-design/eslint-config#readme",
   "license": "MIT",
   "main": "index.js",
+  "bin": {
+    "eslint-installer": "index.js"
+  },
   "files": [
     "index.js"
   ],
