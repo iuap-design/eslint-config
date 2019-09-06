@@ -9,12 +9,12 @@
   "author": "Yudu Ban <banyudu@gmail.com>",
   "homepage": "https://github.com/iuap-design/eslint-config#readme",
   "license": "MIT",
-  "main": "index.js",
+  "main": "cli.js",
   "bin": {
-    "eslint-installer": "./index.js"
+    "eslint-installer": "./cli.js"
   },
   "files": [
-    "index.js"
+    "cli.js"
   ],
   "repository": {
     "type": "git",
