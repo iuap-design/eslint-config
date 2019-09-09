@@ -1,6 +1,6 @@
 {
   "name": "@iuap/eslint-config",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "eslint configuration for iuap-design",
   "keywords": [
     "iuap",
@@ -11,6 +11,7 @@
   "license": "MIT",
   "main": "index.js",
   "files": [
+    "README.md",
     "index.js"
   ],
   "repository": {
